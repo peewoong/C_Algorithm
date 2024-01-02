@@ -13,5 +13,25 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\ch1">
+      <UniqueIdentifier>{42504fbb-9388-4895-bc31-fc18c61bd7c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ch2">
+      <UniqueIdentifier>{54675353-6e62-4d43-90b9-5b00aa7bcdad}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Euclid.c">
+      <Filter>소스 파일\ch1</Filter>
+    </ClCompile>
+    <ClCompile Include="ch2.c">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="ch2project.c">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="ch2project2.c">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
