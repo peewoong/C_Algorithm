@@ -46,7 +46,7 @@
       <Filter>소스 파일\ch4</Filter>
     </ClCompile>
     <ClCompile Include="ch4project2.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\ch4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
