@@ -57,5 +57,8 @@
     <ClCompile Include="ch4project4.c">
       <Filter>소스 파일\ch4</Filter>
     </ClCompile>
+    <ClCompile Include="ch5project1.c">
+      <Filter>소스 파일\ch5</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
