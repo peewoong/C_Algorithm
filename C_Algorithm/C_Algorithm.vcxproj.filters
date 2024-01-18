@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\ch8">
       <UniqueIdentifier>{117a93c9-6c67-4994-bccc-2922ad492e35}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ch9">
+      <UniqueIdentifier>{520450f0-4f85-46f7-81ed-d66084f2b68a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Euclid.c">
@@ -80,6 +83,12 @@
     </ClCompile>
     <ClCompile Include="ch8project2.c">
       <Filter>소스 파일\ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8project3.c">
+      <Filter>소스 파일\ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="ch9project1.c">
+      <Filter>소스 파일\ch9</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
