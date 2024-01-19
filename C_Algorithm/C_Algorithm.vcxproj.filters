@@ -90,5 +90,11 @@
     <ClCompile Include="ch9project1.c">
       <Filter>소스 파일\ch9</Filter>
     </ClCompile>
+    <ClCompile Include="ch9project2.c">
+      <Filter>소스 파일\ch9</Filter>
+    </ClCompile>
+    <ClCompile Include="ch9project3.c">
+      <Filter>소스 파일\ch9</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
